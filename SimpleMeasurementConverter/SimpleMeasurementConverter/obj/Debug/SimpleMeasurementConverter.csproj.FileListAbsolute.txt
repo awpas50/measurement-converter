@@ -1,0 +1,7 @@
+D:\Visual studio 2017 projects\SimpleMeasurementConverter\SimpleMeasurementConverter\bin\Debug\SimpleMeasurementConverter.exe.config
+D:\Visual studio 2017 projects\SimpleMeasurementConverter\SimpleMeasurementConverter\bin\Debug\SimpleMeasurementConverter.exe
+D:\Visual studio 2017 projects\SimpleMeasurementConverter\SimpleMeasurementConverter\bin\Debug\SimpleMeasurementConverter.pdb
+D:\Visual studio 2017 projects\SimpleMeasurementConverter\SimpleMeasurementConverter\obj\Debug\SimpleMeasurementConverter.csprojAssemblyReference.cache
+D:\Visual studio 2017 projects\SimpleMeasurementConverter\SimpleMeasurementConverter\obj\Debug\SimpleMeasurementConverter.csproj.CoreCompileInputs.cache
+D:\Visual studio 2017 projects\SimpleMeasurementConverter\SimpleMeasurementConverter\obj\Debug\SimpleMeasurementConverter.exe
+D:\Visual studio 2017 projects\SimpleMeasurementConverter\SimpleMeasurementConverter\obj\Debug\SimpleMeasurementConverter.pdb
