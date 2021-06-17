@@ -1,7 +1,0 @@
-D:\Visual studio 2017 projects\measurement-converter\Measurement converter\Measurement_converter\bin\Debug\LoChiHim_10071199_Assignment1_ITD121.exe.config
-D:\Visual studio 2017 projects\measurement-converter\Measurement converter\Measurement_converter\bin\Debug\LoChiHim_10071199_Assignment1_ITD121.exe
-D:\Visual studio 2017 projects\measurement-converter\Measurement converter\Measurement_converter\bin\Debug\LoChiHim_10071199_Assignment1_ITD121.pdb
-D:\Visual studio 2017 projects\measurement-converter\Measurement converter\Measurement_converter\obj\Debug\Measurement_converter.csprojAssemblyReference.cache
-D:\Visual studio 2017 projects\measurement-converter\Measurement converter\Measurement_converter\obj\Debug\Measurement_converter.csproj.CoreCompileInputs.cache
-D:\Visual studio 2017 projects\measurement-converter\Measurement converter\Measurement_converter\obj\Debug\LoChiHim_10071199_Assignment1_ITD121.exe
-D:\Visual studio 2017 projects\measurement-converter\Measurement converter\Measurement_converter\obj\Debug\LoChiHim_10071199_Assignment1_ITD121.pdb
